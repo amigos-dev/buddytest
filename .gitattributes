@@ -1,2 +1,8 @@
 static/* linguist-vendored
+img/* linguist-vendored
+
 *.* linguist-language=html
+
+*.js linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
