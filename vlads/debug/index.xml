@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Debug on Amigos Development, LLC</title>
-    <link>https://amigos-dev.github.io/debug/</link>
-    <description>Recent content in Debug on Amigos Development, LLC</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright (C) 2022 - 2023, Amigos Development; All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 07 Jul 2022 18:31:38 -0700</lastBuildDate><atom:link href="https://amigos-dev.github.io/debug/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown Rendered</title>
-      <link>https://amigos-dev.github.io/debug/markdown/</link>
-      <pubDate>Thu, 07 Jul 2022 18:30:10 -0700</pubDate>
-      
-      <guid>https://amigos-dev.github.io/debug/markdown/</guid>
-      <description>Markdown formatted page I am a paragraph in markdown with line wrapping so fit in this width. I am a continuation of the first paragraph as there is no empty line before me.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Debug on Amigos Development, LLC</title><link>https://amigos-dev.github.io/debug/</link><description>Recent content in Debug on Amigos Development, LLC</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright (C) 2022 - 2023, Amigos Development; All Rights Reserved.</copyright><lastBuildDate>Thu, 07 Jul 2022 18:31:38 -0700</lastBuildDate><atom:link href="https://amigos-dev.github.io/debug/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Rendered</title><link>https://amigos-dev.github.io/debug/markdown/</link><pubDate>Thu, 07 Jul 2022 18:30:10 -0700</pubDate><guid>https://amigos-dev.github.io/debug/markdown/</guid><description>Markdown formatted page I am a paragraph in markdown with line wrapping so fit in this width. I am a continuation of the first paragraph as there is no empty line before me.
 I am in the second paragraph.
-I am the third one. Even though there are two line breaks before me, this does not create any newline characters. After me there are two spaces before the newline character.</description>
-    </item>
-    
-  </channel>
-</rss>
+I am the third one. Even though there are two line breaks before me, this does not create any newline characters. After me there are two spaces before the newline character.</description></item></channel></rss>
